@@ -16,5 +16,6 @@ public class Run {
         //genericClass3 = genericClass1;
         genericClass1.setName(11);
         System.out.println(genericClass3.getName());
+        System.out.println(12);
     }
 }
